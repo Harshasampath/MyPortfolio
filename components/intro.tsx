@@ -9,7 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaFacebook, FaGithubSquare, FaWhatsapp } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
-import myImage from "@/public/pic.png";
+import myImage from "@/public/pic.jpg";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -28,17 +28,17 @@ export default function Intro() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{
               type: "tween",
-              duration: 0.2,
+              duration: 0.2
             }}
           >
             <Image
               src={myImage}
               alt="Ricardo portrait"
-              width="192"
-              height="192"
-              quality="95"
+              width="250"
+              height="250"
+              quality="100"
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+              className="rounded-full object-cover border-[0.35rem] border-white shadow-xl "
             />
           </motion.div>
 
@@ -63,7 +63,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Pasindu.</span> I'm a{" "}
+        <span className="font-bold">Hello, I'm Harsha.</span> I'm a{" "}
         <span className="font-bold">Final Year Undergraduate</span> at{" "}
         <span className="font-bold">University of Moratuwa</span>. 
         {" "} <span className="italic font-bold">Coding</span> is my language...!!!
@@ -100,7 +100,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/madurangawicky"
+          href="https://www.linkedin.com/in/harsha-sampath/"
           target="_blank"
         >
           <BsLinkedin />
@@ -108,7 +108,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com/MadurangaWicky"
+          href="https://github.com/Harshasampath"
           target="_blank"
         >
           <FaGithubSquare />
@@ -116,7 +116,7 @@ export default function Intro() {
           
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.facebook.com/pasindu.maduranga.9693"
+          href="https://www.facebook.com/harsha.sampath.5268"
           target="_blank"
         >
           <FaFacebook />
@@ -124,7 +124,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://wa.me/+94704269753"
+          href="https://wa.me/+94769787765"
           target="_blank"
         >
           <FaWhatsapp />

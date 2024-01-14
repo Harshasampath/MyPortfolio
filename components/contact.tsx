@@ -35,8 +35,9 @@ export default function Contact() {
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Please contact me directly through{" "}
-        <a className="font-medium" href="mailto:maduranga.wickramarachchige@gmail.com">
-          maduranga.wickramarachchige@gmail.com
+        <br></br>
+        <a className="font-medium" href="mailto:harshasampathkg@gmail.com">
+        harshasampathkg@gmail.com
         </a>{" "}
         
       </p>
@@ -69,10 +70,11 @@ export default function Contact() {
           required
           maxLength={5000}
         /> */}
+        <br></br>
         <button
   type="button"
   onClick={() => {
-    window.location.href = "mailto:maduranga.wickramarachchige@gmail.com";
+    window.location.href = "mailto:harshasampathkg@gmail.com";
   }}
   style={{
     background: "#000", // Black background color
@@ -86,8 +88,6 @@ export default function Contact() {
 >
   Send Email
 </button>
-
-      {/* </form> */}
     </motion.section>
   );
 }
