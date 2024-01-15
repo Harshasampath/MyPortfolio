@@ -28,13 +28,13 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack in Web development
         is{" "}
         <span className="font-medium">
-           React, .NET, Spring Boot, SQL and MongoDB
+           React, Angular , Spring Boot, SQL and MongoDB
         </span>
-        . I am also familiar with React Native and Flutter. I am always looking to
-        learn new technologies. I worked in several Machine Learning and Deep Learning projects as well. 
+        . I am also familiar with React Native , Android Native and Flutter. I am always looking to
+        learn new technologies. I worked in several Deep Learning projects as well. 
         So i'm ok with <span className="front-medium"> Python with Tensorflow, PyTorch and Keras</span>. I am currently looking for a
         <span className="font-medium"> full-time position</span> as a software
-        Engineer or Machine Learning Engineer.
+        Engineer.
       </p>
 
       <p>
