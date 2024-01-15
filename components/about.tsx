@@ -39,7 +39,7 @@ export default function About() {
 
       <p>
         When I'm not coding, I enjoy playing
-        video games, watching movies, and playing Cricket. Also i enjoy
+        video games, watching movies, and playing Cricket. Also I enjoy
         <span className="font-medium"> learning new things</span>. I am currently
         learning about
         <span className="font-medium"> IoT and AI Engineering</span>.

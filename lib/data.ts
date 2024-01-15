@@ -59,8 +59,8 @@ export const projectsData = [
   {
     title: "Skin Cancer Detection",
     description:
-      "Final Year Research Project. Identify major skin cancer diseases with their sub types",
-    tags: ["Python", "TensorFlow", "openCV", "Sklearn", "Keras"],
+      "Final Year Research Project. Identify major skin cancer diseases with their sub types using deep learning & image processing",
+    tags: ["Python","CoLab" , "TensorFlow", "openCV", "Sklearn", "Keras"],
     imageUrl: eyeImage,
   },
   {
@@ -73,7 +73,7 @@ export const projectsData = [
   {
     title: "Smart Hotel Room",
     description:
-      "A Smart Hotel Room is a technologically advanced and interconnected hospitality space designed to enhance the overall guest experience through the integration of cutting-edge smart technologies. These rooms leverage the latest innovations in the Internet of Things (IoT), automation to provide guests with convenience, comfort, and personalized services.",
+      "A Smart Hotel Room integrates cutting-edge IoT and automation for an enhanced guest experience, offering convenience, comfort, and personalized services through intuitive controls and automated amenities.",
     tags: ["Atmega32", "C+", "AtmelStudio"],
     imageUrl: wordanalyticsImg,
   },
@@ -88,8 +88,8 @@ export const projectsData = [
   {
     title: "Cake Selling APP",
     description:
-      "Cake Selling App, where the joy of indulging in scrumptious desserts meets the convenience of seamless online ordering. Whether you're celebrating a special occasion or simply craving a sweet treat, our app is your gateway to a world of delectable cakes crafted with passion and precision.",
-    tags: ["AndroidStudio", "Java", "React SQLlite"],
+      "Indulge in our Cake Selling App for a seamless blend of scrumptious desserts and convenient online ordering. Celebrate special occasions or satisfy sweet cravings with our passion-crafted, delectable cakes.",
+    tags: ["Android", "Java", "SQL-lite"],
     imageUrl: attendanceImg,
   }
 
