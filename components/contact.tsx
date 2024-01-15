@@ -37,7 +37,7 @@ export default function Contact() {
         Please contact me directly through{" "}
         <br></br>
         <a className="font-medium" href="mailto:harshasampathkg@gmail.com">
-        harshasampathkg@gmail.com
+        harshasampathkg@gmail.com <br></br>Tel - +94 76 97 87 765
         </a>{" "}
         
       </p>
