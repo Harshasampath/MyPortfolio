@@ -59,8 +59,8 @@ export const projectsData = [
   {
     title: "Skin Cancer Detection",
     description:
-      "Final Year Research Project. Identify major skin cancer diseases with their sub types using deep learning & image processing",
-    tags: ["Python","CoLab" , "TensorFlow", "openCV", "Sklearn", "Keras"],
+      "Final Year Research Project. Identify major skin cancer diseases with their sub types using deep learning & image processing.",
+    tags: ["Python","CoLab", "TensorFlow", "openCV", "Sklearn", "Keras"],
     imageUrl: eyeImage,
   },
   {
@@ -111,10 +111,7 @@ export const skillsData = [
   "SpringBoot",
   "Python",
   "TensorFlow",
-  "PyTorch",
-  "Keras",
   "MatLab",
-  "Docker",
   "Firebase",
   "AWS",
   "Git",
