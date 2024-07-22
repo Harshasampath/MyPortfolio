@@ -116,4 +116,8 @@ export const skillsData = [
   "AWS",
   "Git",
   "Figma",
+  "Flutter",
+  "AndroidNative",
+  "AppStore",
+  "PlayStore",
 ] as const;
