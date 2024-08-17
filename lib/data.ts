@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact, FaRebel } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
+import { LuGraduationCap, LuWorkflow } from "react-icons/lu";
 import corpcommentImg from "@/public/intelligent.jpg";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/iot.jpg";
@@ -37,6 +37,14 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+  {
+    title: "Software Engineer - Flutter ",
+    location: "Kapruka.com",
+    description:
+      "I am a skilled Flutter developer with experience in developing, publishing, and maintaining mobile applications for both the App Store and Google Play Store. My expertise includes implementing Firebase services such as Firebase Analytics for user behavior tracking, Firebase Authentication for secure login, and push notifications to drive user engagement. I am adept at ensuring app quality through regular updates and enhancements, and I am well-versed in the entire app lifecycle, from development to deployment.",
+    icon: React.createElement(LuWorkflow),
+    date: "2024 Jan- 2024 July",
+  },
   {
     title: "Intern Software Engineer",
     location: "Kapruka.com",
