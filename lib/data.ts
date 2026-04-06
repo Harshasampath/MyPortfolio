@@ -64,43 +64,82 @@ export const experiencesData = [
 ] as const;
 export const projectsData = [
   {
-    title: "Skin Cancer Detection",
+    title: "Mint HRM Mobile App",
     description:
-      "Final Year Research Project. Identify major skin cancer diseases with their sub types using deep learning & image processing.",
-    tags: ["Python","CoLab", "TensorFlow", "openCV", "Sklearn", "Keras"],
+      "Enterprise HR management mobile app built with Flutter. Manages attendance, leave requests, approvals, and notifications in real-time for employees. Focused on high performance and seamless cross-platform experience.",
+    tags: ["Flutter", "Dart", "Firebase", "REST API", "Bloc", "Riverpod"],
     imageUrl: eyeImage,
   },
   {
-    title: "Learny",
+    title: "Mint HRM Benefits App",
     description:
-      "LMS designed to manage all aspects of online education. User-friendly course creation and interactive content delivery and progress tracking.",
-    tags: ["React(js)", "Tailwind", "NodeJs", "PostgreySQL", "Redux"],
+      "Mobile app to manage employee benefits, rewards, and claims efficiently. Implemented secure authentication, optimized API handling, and responsive UI for smooth employee interactions.",
+    tags: ["Flutter", "Dart", "Provider", "REST API", "UI/UX"],
+    imageUrl: rmtdevImg,
+  },
+  {
+    title: "Gimme Marketplace App",
+    description:
+      "Marketplace mobile application enabling users to browse, purchase, and manage products with real-time data handling and smooth payment flows.",
+    tags: ["Flutter", "Dart", "Firebase", "REST API", "State Management"],
+    imageUrl: wordanalyticsImg,
+  },
+  {
+    title: "Kapruka Driver App",
+    description:
+      "Native Android app for Kapruka delivery drivers to manage deliveries, track orders, and update status in real-time. Implemented offline handling, notifications, and map tracking for optimal performance.",
+    tags: ["Android", "Kotlin", "Java", "Google Maps API", "Firebase"],
+    imageUrl: movieImg,
+  },
+  {
+    title: "Kapruka E-commerce App",
+    description:
+      "Native Android app for Kapruka e-commerce platform allowing users to browse products, place orders, and manage accounts securely. Focused on smooth UX and reliable backend communication.",
+    tags: ["Android", "Kotlin", "Java", "REST API", "SQLite"],
+    imageUrl: attendanceImg,
+  },
+  {
+    title: "Minchy AI App",
+    description:
+      "AI-powered voice agent app designed for HR specialists, similar to ChatGPT. Handles employee queries, automates HR tasks, and provides real-time assistance through natural language processing and AI-driven responses.",
+    tags: ["Flutter", "Dart", "AI", "NLP", "Speech-to-Text", "REST API"],
+    imageUrl: eyeImage,
+  },
+  {
+    title: "Skin Cancer Detection",
+    description:
+      "Final year research project focused on detecting major skin cancer types and subtypes using deep learning and image processing techniques.",
+    tags: ["Python", "TensorFlow", "OpenCV", "Keras", "Scikit-learn"],
+    imageUrl: attendanceImg,
+  },
+  {
+    title: "Learny LMS",
+    description:
+      "Learning Management System designed for online education with course creation, interactive content delivery, and progress tracking features.",
+    tags: ["React", "Tailwind", "Node.js", "PostgreSQL", "Redux"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Smart Hotel Room",
     description:
-      "A Smart Hotel Room integrates cutting-edge IoT and automation for an enhanced guest experience, offering convenience, comfort, and personalized services through intuitive controls and automated amenities.",
-    tags: ["Atmega32", "C+", "AtmelStudio"],
+      "IoT-based smart hotel room system providing automated controls and enhanced guest experience through embedded systems and sensors.",
+    tags: ["Atmega32", "Embedded C", "Atmel Studio"],
     imageUrl: wordanalyticsImg,
   },
   {
-    title: "Cleaning Service web application",
+    title: "Cleaning Service Web Application",
     description:
-      "This web application was developed to manage cleaning activities & Ordering of Australian based cleaning services company, making their worksmoother, efficiency.",
+      "Web platform developed to manage operations and service ordering for an Australia-based cleaning company, improving workflow efficiency.",
     tags: ["WordPress"],
     imageUrl: movieImg,
-  }
-  ,
+  },
   {
-    title: "Cake Selling APP",
+    title: "Cake Selling App",
     description:
-      "Indulge in our Cake Selling App for a seamless blend of scrumptious desserts and convenient online ordering. Celebrate special occasions or satisfy sweet cravings with our passion-crafted, delectable cakes.",
-    tags: ["Android", "Java", "SQL-lite"],
+      "Android application for browsing and ordering cakes with a user-friendly interface and local database integration.",
+    tags: ["Android", "Java", "SQLite"],
     imageUrl: attendanceImg,
-  }
-
-
+  },
 ] as const;
 
 export const skillsData = [
