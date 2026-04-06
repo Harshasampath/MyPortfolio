@@ -68,7 +68,7 @@ export const projectsData = [
     description:
       "Enterprise HR management mobile app built with Flutter. Manages attendance, leave requests, approvals, and notifications in real-time for employees. Focused on high performance and seamless cross-platform experience.",
     tags: ["Flutter", "Dart", "Firebase", "REST API", "Bloc", "Riverpod"],
-    imageUrl: eyeImage,
+    imageUrl: MintHRM,
   },
   {
     title: "Mint HRM Benefits App",
