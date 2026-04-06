@@ -68,6 +68,8 @@ export const experiencesData = [
     date: "Feb 2023 - Jul 2023",
   },
 ] as const;
+
+
 export const projectsData = [
   {
     title: "Mint HRM Mobile App",
