@@ -8,6 +8,11 @@ import wordanalyticsImg from "@/public/iot.jpg";
 import eyeImage from "@/public/eyeimage.jpg"
 import movieImg from "@/public/Movieimg.jpg"
 import attendanceImg from "@/public/attendenceSys.jpg"
+import mintHrmApp from "../public/images/projects/MintHRM.png";
+import mintHrmBenefits from "../public/images/projects/Mint Benefit.png";
+import gimmeMarketplace from "../public/images/projects/gimme-marketplace.png";
+import kaprukaDriver from "../public/images/projects/kapruka-driver.png";
+import kaprukaEcom from "../public/images/projects/kapruka-ecommerce.png";
 
 export const links = [
   {
@@ -68,7 +73,7 @@ export const projectsData = [
     description:
       "Enterprise HR management mobile app built with Flutter. Manages attendance, leave requests, approvals, and notifications in real-time for employees. Focused on high performance and seamless cross-platform experience.",
     tags: ["Flutter", "Dart", "Firebase", "REST API", "Bloc", "Riverpod"],
-    imageUrl: MintHRM,
+    imageUrl: mintHrmApp,
   },
   {
     title: "Mint HRM Benefits App",
