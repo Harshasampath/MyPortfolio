@@ -9,10 +9,10 @@ import eyeImage from "@/public/eyeimage.jpg"
 import movieImg from "@/public/Movieimg.jpg"
 import attendanceImg from "@/public/attendenceSys.jpg"
 import mintHrmApp from "@/public/MintHRM.png";
-import mintHrmBenefits from "@/public/Mint Benefit.png";
-import gimmeMarketplace from "@/public/gimme-marketplace.png";
-import kaprukaDriver from "@/public/kapruka-driver.png";
-import kaprukaEcom from "@/public/kapruka-ecommerce.png";
+import mintHrmBenefits from "@/public/Mint_Benefit.png";
+import gimmeMarketplace from "@/public/gimme_app.png";
+import kaprukaDriver from "@/public/kapruka_driver.png";
+import kaprukaEcom from "@/public/kapruka_ecommerce.png";
 
 export const links = [
   {
