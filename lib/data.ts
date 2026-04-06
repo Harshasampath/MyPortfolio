@@ -38,31 +38,30 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Software Engineer - Flutter ",
-    location: "Kapruka.com",
+    title: "Software Engineer - Mobile (Flutter)",
+    location: "Mint HRM · Full-time",
     description:
-      "I am a skilled Flutter developer with experience in developing, publishing, and maintaining mobile applications for both the App Store and Google Play Store. My expertise includes implementing Firebase services such as Firebase Analytics for user behavior tracking, Firebase Authentication for secure login, and push notifications to drive user engagement. I am adept at ensuring app quality through regular updates and enhancements, and I am well-versed in the entire app lifecycle, from development to deployment.",
+      "Currently working as a Flutter developer at MintHRM, building scalable, high-performance mobile applications for Android and iOS. Responsible for designing, developing, and maintaining production-grade apps with a focus on performance, stability, and user experience. Collaborating with cross-functional teams to deliver new features and continuously improve existing systems. Implementing modern state management solutions (Provider, Bloc, Riverpod) and following best practices for clean, maintainable code. Actively involved in debugging, performance optimization, and code quality improvements through testing and reviews.",
     icon: React.createElement(LuWorkflow),
-    date: "2024 Jan- 2024 July",
+    date: "Oct 2024 - Present",
   },
   {
-    title: "Intern Software Engineer",
-    location: "Kapruka.com",
+    title: "Software Engineer",
+    location: "Kapruka Holdings PLC · Full-time",
     description:
-      "I worked in several projects including Kapruka projects. I had the chance to experience the technologies such as Network Engineering. I used several programming languages and frameworks and libraries. Mainly they are Angular , Springboot , AndroidNative , Kotlin , TypeScript , Java. I was able to experienced the amazing culture of the Kapruka.com and working under the supervising of giants in the IT industry",
+      "Worked as a mobile application developer, contributing to the development and maintenance of business-critical applications. Focused on implementing user requirements, improving application performance, and ensuring reliable functionality. Collaborated with team members to deliver features on time while maintaining code quality and consistency.",
+    icon: React.createElement(LuWorkflow),
+    date: "Jan 2024 - Jul 2024",
+  },
+  {
+    title: "Software Engineer Intern",
+    location: "Kapruka Holdings PLC · Internship",
+    description:
+      "Completed internship working on real-world software projects, gaining hands-on experience in mobile and web technologies. Assisted in feature development, bug fixing, and requirement analysis while learning industry best practices and team collaboration workflows.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022 Dec- 2023 June",
+    date: "Feb 2023 - Jul 2023",
   },
-  {
-    title: "Freelancer Developer",
-    location: "Full Time",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, .NET, Springboot, SQL and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2022 - present",
-  }
 ] as const;
-
 export const projectsData = [
   {
     title: "Skin Cancer Detection",
