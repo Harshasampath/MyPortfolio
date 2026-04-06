@@ -13,6 +13,7 @@ import mintHrmBenefits from "@/public/Mint_Benefit.png";
 import gimmeMarketplace from "@/public/gimme_app.png";
 import kaprukaDriver from "@/public/kapruka_driver.png";
 import kaprukaEcom from "@/public/kapruka_ecommerce.png";
+import minchi_AI from "@/public/minchy_AI.png";
 
 export const links = [
   {
@@ -108,7 +109,7 @@ export const projectsData = [
     description:
       "AI-powered voice agent app designed for HR specialists, similar to ChatGPT. Handles employee queries, automates HR tasks, and provides real-time assistance through natural language processing and AI-driven responses.",
     tags: ["Flutter", "Dart", "AI", "NLP", "Speech-to-Text", "REST API"],
-    imageUrl: eyeImage,
+    imageUrl: minchy_AI,
   },
   {
     title: "Skin Cancer Detection",
