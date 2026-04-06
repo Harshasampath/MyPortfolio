@@ -118,7 +118,7 @@ export const projectsData = [
     description:
       "Final year research project focused on detecting major skin cancer types and subtypes using deep learning and image processing techniques.",
     tags: ["Python", "TensorFlow", "OpenCV", "Keras", "Scikit-learn"],
-    imageUrl: attendanceImg,
+    imageUrl: eyeImage,
   },
   {
     title: "Learny LMS",
