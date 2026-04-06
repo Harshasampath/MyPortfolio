@@ -8,11 +8,11 @@ import wordanalyticsImg from "@/public/iot.jpg";
 import eyeImage from "@/public/eyeimage.jpg"
 import movieImg from "@/public/Movieimg.jpg"
 import attendanceImg from "@/public/attendenceSys.jpg"
-import mintHrmApp from "@/public/images/projects/MintHRM.png";
-import mintHrmBenefits from "@/public/images/projects/Mint Benefit.png";
-import gimmeMarketplace from "@/public/images/projects/gimme-marketplace.png";
-import kaprukaDriver from "@/public/images/projects/kapruka-driver.png";
-import kaprukaEcom from "@/public/images/projects/kapruka-ecommerce.png";
+import mintHrmApp from "@/public/projects/MintHRM.png";
+import mintHrmBenefits from "@/public/projects/Mint Benefit.png";
+import gimmeMarketplace from "@/public/projects/gimme-marketplace.png";
+import kaprukaDriver from "@/public/projects/kapruka-driver.png";
+import kaprukaEcom from "@/public/projects/kapruka-ecommerce.png";
 
 export const links = [
   {
