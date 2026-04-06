@@ -13,7 +13,7 @@ import mintHrmBenefits from "@/public/Mint_Benefit.png";
 import gimmeMarketplace from "@/public/gimme_app.png";
 import kaprukaDriver from "@/public/kapruka_driver.png";
 import kaprukaEcom from "@/public/kapruka_ecommerce.png";
-import minchi_AI from "@/public/minchy_AI.png";
+import minchy_AI from "@/public/minchy_AI.png";
 
 export const links = [
   {
