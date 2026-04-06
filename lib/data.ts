@@ -80,28 +80,28 @@ export const projectsData = [
     description:
       "Mobile app to manage employee benefits, rewards, and claims efficiently. Implemented secure authentication, optimized API handling, and responsive UI for smooth employee interactions.",
     tags: ["Flutter", "Dart", "Provider", "REST API", "UI/UX"],
-    imageUrl: rmtdevImg,
+    imageUrl: mintHrmBenefits,
   },
   {
     title: "Gimme Marketplace App",
     description:
       "Marketplace mobile application enabling users to browse, purchase, and manage products with real-time data handling and smooth payment flows.",
     tags: ["Flutter", "Dart", "Firebase", "REST API", "State Management"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: gimmeMarketplace,
   },
   {
     title: "Kapruka Driver App",
     description:
       "Native Android app for Kapruka delivery drivers to manage deliveries, track orders, and update status in real-time. Implemented offline handling, notifications, and map tracking for optimal performance.",
     tags: ["Android", "Kotlin", "Java", "Google Maps API", "Firebase"],
-    imageUrl: movieImg,
+    imageUrl: kaprukaDriver,
   },
   {
     title: "Kapruka E-commerce App",
     description:
       "Native Android app for Kapruka e-commerce platform allowing users to browse products, place orders, and manage accounts securely. Focused on smooth UX and reliable backend communication.",
     tags: ["Android", "Kotlin", "Java", "REST API", "SQLite"],
-    imageUrl: attendanceImg,
+    imageUrl: kaprukaEcom,
   },
   {
     title: "Minchy AI App",
